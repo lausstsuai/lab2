@@ -35,6 +35,9 @@ body {
 
 .project {
      margin-left: 20px;
+     background-color: #c5ffff;
+     padding: 30px;
+     width: 600px;
 }
 
 /*
@@ -42,15 +45,17 @@ p {
     font-variant: small-caps;
 }
 */
-/*
+
 .project p {
     font-variant: small-caps;
 }
-*/
 
-#project1 {
-    font-variant: small-caps;
+.h4 {
+    font: 10pt
 }
+
+
+
 
 
 
